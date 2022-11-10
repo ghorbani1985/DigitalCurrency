@@ -3,7 +3,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 
 
 //Components
-import Landing from "./Components/shared/Landing";
+import Landing from "./Components/Landing";
 function App() {
   return (
 
